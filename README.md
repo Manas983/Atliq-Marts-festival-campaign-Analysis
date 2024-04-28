@@ -1,4 +1,8 @@
 # AtliQ_Mart
+
+## 🔗 Dashboard Link
+[Link to Dashboard](https://lnkd.in/ecPbUSKe)
+
 ## Table of Contents
  - [Business Problem ](#business_problem)
  - [Data Used For Analysis](#data_used_for_analysis)
